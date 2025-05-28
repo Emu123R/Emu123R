@@ -7,6 +7,7 @@
 - Arduino
 - Boostrap
 - CSS3
+- JavaScript
 - React
 - MongoDB
 - node.js
